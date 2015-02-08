@@ -1,0 +1,10 @@
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/classes/debug
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0-a9523d45e56bd8ed34d4964f60ac5cfa5e4e0873.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/okio-1.2.0-839849168553412a7da1f0f154968de429b04d28.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-64435509d07b26bd0da4ac2a42e3106ab51764c5.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-e65e27ccc68a3884c81a8c7f34570b9484d69502.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/gson-2.3.1-0cc4372238b67fb4a206e4545c9f26d564b3bd19.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-619f9480386c928331b9b52b632834cf66b3767d.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-ba865f5fb229c027e28b1696ab3ed35ace3c2037.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/classes-934463f1212579672a7c0ede9c0d601539ccce90.jar
+/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-11178d5f58255e03feb225978e754b21675095a1.jar

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/classes-934463f1212579672a7c0ede9c0d601539ccce90.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/Documents/android-sdk/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-11178d5f58255e03feb225978e754b21675095a1.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/gson-2.3.1-0cc4372238b67fb4a206e4545c9f26d564b3bd19.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/libs/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-64435509d07b26bd0da4ac2a42e3106ab51764c5.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/libs/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-ba865f5fb229c027e28b1696ab3ed35ace3c2037.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/libs/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/okio-1.2.0-839849168553412a7da1f0f154968de429b04d28.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/libs/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-619f9480386c928331b9b52b632834cf66b3767d.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/libs/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0-a9523d45e56bd8ed34d4964f60ac5cfa5e4e0873.jar" />
+    </item>
+    <item
+        jar="/home/spbmap/AndroidStudioProjects/WeatherTest/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/spbmap/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-e65e27ccc68a3884c81a8c7f34570b9484d69502.jar" />
+    </item>
+
+</items>
