@@ -18,4 +18,10 @@ RestAdapter restCitiesAdapter = new RestAdapter.Builder()
       .setConverter(new SimpleXMLConverter())
       .build();
 ```
+For ignore unused XML elements while deserializing a feed use @Root(strict=false)
 
+```
+@Root(name = "forecast", strict=false)
+public class Forecast implements Serializable{
+...
+```
